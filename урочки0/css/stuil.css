@@ -1,0 +1,43 @@
+header {
+  background-color: #FFD700;
+}
+footer{
+  background-color: #FFD700;
+}
+body{
+  background-image: url("https://i.pinimg.com/originals/2e/0a/2b/2e0a2b6402db2b22dc44849d9c7f087c.jpg");
+}
+P{
+  color:#FFFFFF;
+}
+.navbar-brand {
+ font-size: 18px;
+ font-weight: 600;
+ color:#000000;
+}
+.nav-link, .dropdown-item {
+ font-size: 15px;
+ font-weight: 600;
+ text-transform: uppercase;
+ background-color: rgba(0, 0, 0, 1);
+ border-radius: 5px;
+}
+nav li {
+ padding: 0 18px;
+}
+nav li.active, nav li.active:before, {
+ background-color: rgba(0, 0, 0, 0.1);
+ border-radius: 5px;
+}
+.nav-link.active, .nav-link.active:before, {
+ background-color: rgba(0, 0, 0, 0.1);
+ border-radius: 5px;
+}
+
+p2{
+  color:#000000
+
+}
+.carousel a:hover {
+ background: rgba(255, 255, 255, 0.2);
+}
